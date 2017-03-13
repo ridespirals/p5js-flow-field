@@ -1,0 +1,25 @@
+{
+  "name": "flow-field",
+  "version": "1.0.0",
+  "description": "Flow fields and perlin noise in p5js",
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ridespirals/p5js-flow-field.git"
+  },
+  "main": "gulpfile.js",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "John Varga <john.g.varga@gmail.com",
+  "license": "BSD-Clause3",
+  "bugs": {
+      "url": "https://github.com/ridespirals/p5js-flow-field/issues"
+  },
+  "homepage": "https://github.com/ridespirals/p5js-flow-field#readme",
+  "devDependencies": {},
+  "dependencies": {
+      "browser-sync": "^2.13.0",
+      "gulp": "^3.9.1"
+  }
+}
